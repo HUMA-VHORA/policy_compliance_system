@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+pdfplumber
+numpy
+scikit-learn
+sentence-transformers
+faiss-cpu
+python-dotenv
+python-docx
