@@ -5,6 +5,6 @@ __pycache__/
 env/
 venv/
 *.sqlite3
-uploads/
+uploads
 *.xlsx
 *.env
